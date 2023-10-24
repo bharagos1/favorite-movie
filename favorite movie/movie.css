@@ -1,0 +1,15 @@
+header {background-color: black;
+        color: red;
+        text-align: center;}
+h2 {background-color: black;
+    color: red;}
+footer {background-color: black;
+        color: red;
+        font-size: small;
+        font-style: italic;}
+nav {text-align: center;
+     font-weight: bold;}
+dt {font-weight: bold;
+    color: red;}
+.companyname {color: red
+             font-weight: bold;}
